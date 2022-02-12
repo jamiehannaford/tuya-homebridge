@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-tuya-platform",
+  "name": "homebridge-tuya-platform-jamiehannaford",
   "version": "1.5.0",
   "description": "Official Homebridge plugin for Tuya Open API, maintained by the Tuya Developer Team.",
   "main": "index.js",
@@ -12,7 +12,7 @@
   ],
   "author": "huhuan",
   "license": "MIT",
-  "homepage": "https://github.com/tuya/tuya-homebridge",
+  "homepage": "https://github.com/jamiehannaford/tuya-homebridge",
   "engines": {
     "node": ">=0.12.0",
     "homebridge": ">=0.2.0"
